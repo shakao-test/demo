@@ -31,6 +31,7 @@
 ### shark-background
 * name: Design a Background
 * type: tutorial
+* next: shark-projectile, shark-enemies-moving
 * description: Draw a world for your hero to explore
 * url: /recipes/shark-splash/04-background
 * tags: easy, design, background
@@ -39,7 +40,7 @@
 ### shark-projectile
 * name: Projectile Effects
 * type: tutorial
-* next: shark-enemies-moving, shark-enemies-multiple, shark-background
+* next: shark-enemies-moving, shark-enemies-multiple
 * description: Let's give those projectiles some power!
 * url: /recipes/shark-splash/03-projectiles
 * tags: easy, projectiles, enemies
