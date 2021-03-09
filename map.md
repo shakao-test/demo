@@ -39,7 +39,7 @@
 ### shark-projectile
 * name: Projectile Effects
 * type: tutorial
-* next: shark-enemies-moving, shark-enemies-multiple
+* next: shark-enemies-moving, shark-enemies-multiple, shark-background
 * description: Let's give those projectiles some power!
 * url: /recipes/shark-splash/03-projectiles
 * tags: easy, projectiles, enemies
