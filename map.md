@@ -26,7 +26,7 @@
 * url: /recipes/shark-splash/02-enemies
 * tags: easy, enemies
 * imageUrl: /static/recipes/shark-splash/02-enemies.gif
-* next: shark-background, shark-projectile
+* next: shark-projectile, shark-background
 
 ### shark-background
 * name: Design a Background
@@ -44,7 +44,7 @@
 * url: /recipes/shark-splash/03-projectiles
 * tags: easy, projectiles, enemies
 * imageUrl: /static/recipes/shark-splash/03-projectiles.gif
-* next: shark-enemies-moving, shark-enemies-multiple
+* next: shark-enemies-moving, shark-enemies-multiple, shark-finish
 
 ### shark-enemies-moving
 * name: Moving Enemies
