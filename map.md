@@ -17,7 +17,7 @@
 * url: /recipes/shark-splash/01-character
 * tags: easy, sprites, projectiles
 * imageUrl: /static/recipes/shark-splash/01-character.gif
-* next: shark-enemies
+* next: shark-enemies, shark-background
 
 ### shark-enemies
 * name: Add Enemies
@@ -26,7 +26,7 @@
 * url: /recipes/shark-splash/02-enemies
 * tags: easy, enemies
 * imageUrl: /static/recipes/shark-splash/02-enemies.gif
-* next: shark-background, shark-projectile
+* next: shark-projectile
 
 ### shark-background
 * name: Design a Background
