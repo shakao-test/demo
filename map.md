@@ -34,7 +34,7 @@
 * description: Draw a world for your hero to explore
 * url: /recipes/shark-splash/04-background
 * tags: easy, design, background
-* imageUrl: /static/recipes/shark-splash/04-background.gif
+* imageUrl: /static/recipes/shark-splash/04-background.png
 
 ### shark-projectile
 * name: Projectile Effects
