@@ -13,25 +13,25 @@
 ### shark-character
 * name: Create Your Hero
 * type: tutorial
-* next: shark-enemies
 * description: Create a main character that shoots some projectiles
 * url: /recipes/shark-splash/01-character
 * tags: easy, sprites, projectiles
 * imageUrl: /static/recipes/shark-splash/01-character.gif
+* next: shark-enemies
 
 ### shark-enemies
 * name: Add Enemies
 * type: tutorial
-* next: shark-projectile, shark-background
 * description: An enemy appears! Fight!
 * url: /recipes/shark-splash/02-enemies
 * tags: easy, enemies
 * imageUrl: /static/recipes/shark-splash/02-enemies.gif
+* next: shark-projectile, shark-background
 
 ### shark-background
 * name: Design a Background
 * type: tutorial
-* next: shark-projectile, shark-enemies-moving
+* next: shark-projectile
 * description: Draw a world for your hero to explore
 * url: /recipes/shark-splash/04-background
 * tags: easy, design, background
