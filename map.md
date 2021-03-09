@@ -44,7 +44,7 @@
 * url: /recipes/shark-splash/03-projectiles
 * tags: easy, projectiles, enemies
 * imageUrl: /static/recipes/shark-splash/03-projectiles.gif
-* next: shark-enemies-moving, shark-enemies-multiple, shark-finish
+* next: shark-enemies-moving, shark-enemies-multiple
 
 ### shark-enemies-moving
 * name: Moving Enemies
