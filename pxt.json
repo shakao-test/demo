@@ -10,7 +10,14 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "map.md"
+        "map.md",
+        "tutorials/shark-01.md",
+        "tutorials/shark-02.md",
+        "tutorials/shark-03.md",
+        "tutorials/shark-04.md",
+        "tutorials/shark-05.md",
+        "tutorials/shark-06.md",
+        "tutorials/shark-07.md"
     ],
     "testFiles": [
         "test.ts"
