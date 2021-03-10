@@ -44,7 +44,7 @@
 * url: https://github.com/shakao-test/demo/tutorials/shark-04
 * tags: easy, projectiles, enemies
 * imageUrl: https://shakao-test.github.io/demo/images/03-projectiles.gif
-* next: shark-enemies-moving, shark-enemies-multiple, shark-enemies-damage
+* next: shark-enemies-moving, shark-enemies-damage
 
 ### shark-enemies-moving
 * name: Moving Enemies
@@ -53,15 +53,6 @@
 * url: https://github.com/shakao-test/demo/tutorials/shark-05
 * tags: easy, enemies, movement
 * imageUrl: https://shakao-test.github.io/demo/images/02-A-enemies.gif
-* next: shark-finish
-
-### shark-enemies-multiple
-* name: Multiple Enemies
-* type: tutorial
-* description: Add variety to your game with different types of enemies.
-* url: https://github.com/shakao-test/demo/tutorials/shark-06
-* tags: easy, enemies, kinds
-* imageUrl: https://shakao-test.github.io/demo/images/02-B-enemies.gif
 * next: shark-finish
 
 ### shark-enemies-damage
