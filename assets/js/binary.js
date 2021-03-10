@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.3.49/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.18","target":"arcade","targetVersion":"1.3.49","repo":"shakao-test/demo"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.3.49/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.19","target":"arcade","targetVersion":"1.3.49","repo":"shakao-test/demo"}
 // total=1130233 new=6.24% cached=88.12% other=5.64%
 (function (ectx) {
 'use strict';
