@@ -52,10 +52,6 @@ sprites.onOverlap(SpriteKind.Projectile, SpriteKind.Enemy, function (sprite, oth
 })
 ```
 
-## Conclusion @unplugged
-
-Now try making your enemies move or spawn multiple kinds of enemies!
-
 ```template
 scene.setBackgroundColor(8)
 let mySprite = sprites.create(img`

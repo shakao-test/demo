@@ -210,10 +210,6 @@ for (let index = 0; index <= 10; index++) {
 ```
 
 
-## Conclusion @unplugged
-
-Next, let's create some enemies for our hero to fight!
-
 ```template
 scene.setBackgroundColor(8)
 let mySprite = sprites.create(img`

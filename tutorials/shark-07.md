@@ -64,12 +64,6 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSp
 })
 ```
 
-## Conclusion @unplugged
-
-
-Now let's add code to destroy the enemies with your projectiles! Or, if you're feeling creative, add a background to set the scene.
-
-
 ```template
 scene.setBackgroundColor(8)
 let mySprite = sprites.create(img`

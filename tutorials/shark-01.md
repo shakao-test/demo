@@ -104,7 +104,3 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     `, mySprite, 50, 0)
 })
 ```
-
-## Conclusion @unplugged
-
-Now that you have a hero character, let's customize your game. Maybe you want to add some villains who are attacking your character, or maybe you want to develop the scene of your game--it's up to you!
