@@ -14,7 +14,7 @@
 * name: Create Your Hero
 * type: tutorial
 * description: Create a main character that shoots some projectiles
-* url: /recipes/shark-splash/01-character
+* url: https://github.com/shakao-test/demo/tutorials/shark-01
 * tags: easy, sprites, projectiles
 * imageUrl: /static/recipes/shark-splash/01-character.gif
 * next: shark-enemies, shark-background
@@ -23,7 +23,7 @@
 * name: Add Enemies
 * type: tutorial
 * description: An enemy appears! Fight!
-* url: /recipes/shark-splash/02-enemies
+* url: https://github.com/shakao-test/demo/tutorials/shark-02
 * tags: easy, enemies
 * imageUrl: /static/recipes/shark-splash/02-enemies.gif
 * next: shark-projectile
@@ -32,7 +32,7 @@
 * name: Design a Background
 * type: tutorial
 * description: Draw a world for your hero to explore
-* url: /recipes/shark-splash/04-background
+* url: https://github.com/shakao-test/demo/tutorials/shark-03
 * tags: easy, design, background
 * imageUrl: /static/recipes/shark-splash/04-background.png
 * next: shark-projectile
@@ -41,16 +41,16 @@
 * name: Projectile Effects
 * type: tutorial
 * description: Let's give those projectiles some power!
-* url: /recipes/shark-splash/03-projectiles
+* url: https://github.com/shakao-test/demo/tutorials/shark-04
 * tags: easy, projectiles, enemies
 * imageUrl: /static/recipes/shark-splash/03-projectiles.gif
-* next: shark-enemies-moving, shark-enemies-multiple
+* next: shark-enemies-moving, shark-enemies-multiple, shark-enemies-damage
 
 ### shark-enemies-moving
 * name: Moving Enemies
 * type: tutorial
 * description: Uh-oh, these enemies are on the go. Learn how to code enemy movement!
-* url: /recipes/shark-splash/02-A-enemies
+* url: https://github.com/shakao-test/demo/tutorials/shark-05
 * tags: easy, enemies, movement
 * imageUrl: /static/recipes/shark-splash/02-A-enemies.gif
 * next: shark-finish
@@ -59,9 +59,18 @@
 * name: Multiple Enemies
 * type: tutorial
 * description: Add variety to your game with different types of enemies.
-* url: /recipes/shark-splash/02-B-enemies
+* url: https://github.com/shakao-test/demo/tutorials/shark-06
 * tags: easy, enemies, kinds
 * imageUrl: /static/recipes/shark-splash/02-B-enemies.gif
+* next: shark-finish
+
+### shark-enemies-damage
+* name: Taking Damage
+* type: tutorial
+* description: Watch out! Have the enemies damage the player if they do not dodge.
+* url: https://github.com/shakao-test/demo/tutorials/shark-07
+* tags: easy, enemies, overlaps
+* imageUrl: /static/recipes/shark-splash/02-C-enemies.gif
 * next: shark-finish
 
 ### shark-finish
