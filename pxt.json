@@ -17,7 +17,8 @@
         "tutorials/shark-04.md",
         "tutorials/shark-05.md",
         "tutorials/shark-06.md",
-        "tutorials/shark-07.md"
+        "tutorials/shark-07.md",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
