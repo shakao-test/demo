@@ -2,9 +2,9 @@
 * name: Shark Splash
 * description: Design a shooter game! We'll start by creating a hero that shoots projectiles, then you can customize the game with enemies, or a detailed setting.
 * backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
-* primarycolor: #249ca3
+* primarycolor: #ff93c4
 * secondarycolor: #87f2ff
-* tertiarycolor: #ff93c4
+* tertiarycolor: #5c406c
 * strokecolor: #5c406c
 
 ## shark
