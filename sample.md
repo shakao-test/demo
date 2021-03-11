@@ -9,22 +9,26 @@
 ## interface
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
 * name: Learn to use MakeCode Arcade
 * type: tutorial
+* next: interface-finish
 * description: Intro to our tutorial cards
 * tags: easy
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
+### interface-finish
+* kind: completion
+* type: certificate
+* url: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
 ## space
 * name: Design a Space Explorer
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
 ### space-activity1
 
@@ -65,11 +69,15 @@
 * type: tutorial
 * description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
 * tags: intermediate, extensions
-
+* next: space-finish
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
 
+### space-finish
+* kind: completion
+* type: certificate
+* url: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
 
 
 ## platformer
@@ -125,3 +133,10 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity5
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity5.png
 * tags: intermediate, AI, physics
+* next: platformer-finish
+
+### platformer-finish
+* kind: completion
+* type: certificate
+* url: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
+
