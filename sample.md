@@ -1,7 +1,7 @@
 # sample
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
-* backgroundurl: test.png
+* backgroundurl: https://shakao-test.github.io/demo/images/space.png
 * primarycolor: #8e2ec4
 * secondarycolor: #78dc52
 * tertiarycolor: #000000
