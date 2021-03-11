@@ -36,10 +36,14 @@
 * type: tutorial
 * description: Draw and code a spaceship!
 * tags: easy
-* next: space-activity2
+* next: space-blank, space-activity2
 
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+
+### space-blank
+* name: Blank node
+* kind: layout
 
 ### space-activity2
 
@@ -93,7 +97,11 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
 * tags: easy
-* next: platformer-activity2
+* next: platformer-blank, platformer-activity2
+
+### platformer-blank
+* name: Blank node
+* kind: layout
 
 ### platformer-activity2
 
@@ -123,7 +131,11 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity4
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity4.png
 * tags: intermediate, functions
-* next: platformer-activity5
+* next: platformer-blank-2, platformer-activity5
+
+### platformer-blank-2
+* name: Blank node
+* kind: layout
 
 ### platformer-activity5
 
