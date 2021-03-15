@@ -12,7 +12,6 @@
 ## interface
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
-* completionUrl: /static/skillmap/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
@@ -28,6 +27,17 @@
 * name: Learn to use MakeCode Arcade
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 
+### space-activity1
+
+* name: Ship Design
+* type: tutorial
+* description: Draw and code a spaceship!
+* tags: easy
+* next: space-activity2, pusher1
+
+* url: /skillmap/space/activity1
+* imageUrl: /static/skillmap/space/activity1.png
+
 ### pusher1
 * name: Blank node
 * kind: layout
@@ -40,19 +50,6 @@
 ### pusher3
 * name: Blank node
 * kind: layout
-
-
-
-### space-activity1
-
-* name: Ship Design
-* type: tutorial
-* description: Draw and code a spaceship!
-* tags: easy
-* next: space-activity2, pusher1
-
-* url: /skillmap/space/activity1
-* imageUrl: /static/skillmap/space/activity1.png
 
 ### space-activity2
 
