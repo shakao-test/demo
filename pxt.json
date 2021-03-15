@@ -18,7 +18,8 @@
         "tutorials/shark-06.md",
         "tutorials/shark-07.md",
         "test.md",
-        "sample.md"
+        "sample.md",
+        "beginner.md"
     ],
     "targetVersions": {
         "target": "1.3.49",
