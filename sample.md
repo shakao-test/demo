@@ -2,10 +2,10 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * backgroundurl: https://shakao-test.github.io/demo/images/int-bg.png
-* primarycolor: #e5cdc4
-* secondarycolor: #e77038
-* tertiarycolor: #5c406c
-* highlightcolor: #ffeb9a
+* primarycolor: #83C252
+* secondarycolor: #F392BD
+* tertiarycolor: #279DA3
+* highlightcolor: #FAED28
 
 ## interface
 * name: Learn to use MakeCode Arcade
