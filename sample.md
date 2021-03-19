@@ -2,7 +2,7 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * backgroundurl: https://shakao-test.github.io/demo/images/int-bg.png
-* primarycolor: #5c406c
+* primarycolor: #a4839f
 * secondarycolor: #e77038
 * tertiarycolor: #5c406c
 * highlightcolor: #ffeb9a
