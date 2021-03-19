@@ -1,7 +1,7 @@
 # sample
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
-* bannerurl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
+* backgroundurl: https://shakao-test.github.io/demo/images/int-bg.png
 * primarycolor: #a4839f
 * secondarycolor: #e77038
 * tertiarycolor: #5c406c
