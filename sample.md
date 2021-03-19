@@ -2,9 +2,9 @@
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 * bannerurl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
-* primarycolor: #8e2ec4
+* primarycolor: #a4839f
 * secondarycolor: #e77038
-* tertiarycolor: #a4839f
+* tertiarycolor: #5c406c
 * highlightcolor: #fff609
 
 ## interface
