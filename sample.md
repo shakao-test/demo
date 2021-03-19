@@ -3,9 +3,9 @@
 * description: Level up your game making skills by completing the tutorials in this guide.
 * bannerurl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 * primarycolor: #a4839f
-* secondarycolor: #fff609
+* secondarycolor: #e77038
 * tertiarycolor: #5c406c
-* highlightcolor: #e77038
+* highlightcolor: #fff609
 
 ## interface
 * name: Learn to use MakeCode Arcade
