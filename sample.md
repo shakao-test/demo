@@ -7,6 +7,7 @@
 * secondarycolor: #78dc52
 * tertiarycolor: #000000
 * highlightcolor: #fff609
+* alternatesources: docs:/skillmap/intermediate-skillmap
 
 ## interface
 * name: Learn to use MakeCode Arcade
