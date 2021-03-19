@@ -5,7 +5,7 @@
 * primarycolor: #a4839f
 * secondarycolor: #e77038
 * tertiarycolor: #5c406c
-* highlightcolor: #fff609
+* highlightcolor: #ffeb9a
 
 ## interface
 * name: Learn to use MakeCode Arcade
