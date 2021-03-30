@@ -73,6 +73,12 @@ let mySprite = sprites.create(img`
     . . . c c c c c c c c b b . . .
 `, SpriteKind.Player)
 controller.moveSprite(mySprite)
+animation.runImageAnimation(
+mySprite,
+[img`4`],
+500,
+false
+)
 
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     let projectile = sprites.createProjectileFromSprite(img`
