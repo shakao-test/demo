@@ -44,6 +44,13 @@ game.onUpdateInterval(500, function () {
         . c c c c c c c c c . . c c c .
     `, SpriteKind.Enemy)
 })
+animation.runImageAnimation(
+enemySprite,
+[img`4`],
+500,
+false
+)
+
 ```
 
 ## Step 3
