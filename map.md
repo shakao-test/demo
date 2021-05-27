@@ -3,6 +3,7 @@
 * description: Design a shooter game! We'll start by creating a hero that shoots projectiles, then you can customize the game with enemies, or a detailed setting.
 * backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
 * bannerurl: https://shakao-test.github.io/demo/images/shark-attack.png
+* infourl: https://github.com/shakao-test/demo/
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
 * tertiarycolor: #5c406c
