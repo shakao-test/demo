@@ -64,7 +64,7 @@
 * next: shark-enemies-damage
 * position: 1 2
 
-### shark-enemies-damage
+### shark-background
 * name: Taking Damage
 * type: tutorial
 * description: Watch out! Have the enemies damage the player if they do not dodge.
