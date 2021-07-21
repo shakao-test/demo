@@ -23,7 +23,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/01-character.gif
 * next: shark-enemies, shark-background
 * position: 0 0
-* edges: 1 0,0 2
 
 ### shark-enemies
 * name: Add Enemies
@@ -34,7 +33,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
 * next: shark-projectile
 * position: 0 2
-* edges: 1 2
 
 ### shark-background
 * name: Design a Background
@@ -45,7 +43,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/04-background.png
 * next: shark-projectile
 * position: 1 0
-* edges: 2 0
 
 ### shark-projectile
 * name: Projectile Effects
@@ -56,7 +53,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/03-projectiles.gif
 * next: shark-enemies-moving, shark-enemies-damage
 * position: 2 0
-* edges: 3 0
 
 ### shark-enemies-moving
 * name: Moving Enemies
@@ -67,7 +63,6 @@
 * imageUrl: https://shakao-test.github.io/demo/images/02-A-enemies.gif
 * next: shark-finish
 * position: 1 2
-* edges: 2 2
 
 ### shark-enemies-damage
 * name: Taking Damage
