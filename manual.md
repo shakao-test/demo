@@ -78,7 +78,7 @@
 * imageUrl: https://shakao-test.github.io/demo/images/02-C-enemies.gif
 * next: shark-finish
 * position: 2 2
-* edges: [[2 1, 1 1]]
+* edges: [[2 1, 1 1, 1 0]]
 
 ### shark-finish
 * kind: completion
