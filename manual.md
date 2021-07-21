@@ -34,7 +34,7 @@
 * imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
 * next: shark-projectile
 * position: 0 2
-* edges: [[2 2]]
+* edges: [[1 2]]
 
 ### shark-background
 * name: Design a Background
@@ -66,8 +66,8 @@
 * tags: easy, enemies, movement
 * imageUrl: https://shakao-test.github.io/demo/images/02-A-enemies.gif
 * next: shark-finish
-* position: 2 2
-* edges: [[2 3]]
+* position: 1 2
+* edges: [[2 2]]
 
 ### shark-enemies-damage
 * name: Taking Damage
@@ -77,11 +77,11 @@
 * tags: easy, enemies, overlaps
 * imageUrl: https://shakao-test.github.io/demo/images/02-C-enemies.gif
 * next: shark-finish
-* position: 2 3
-* edges: [[0 3]]
+* position: 2 2
+* edges: [[2 1, 1 1]]
 
 ### shark-finish
 * kind: completion
 * type: certificate
 * url: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
-* position: 0 3
+* position: 3 0
