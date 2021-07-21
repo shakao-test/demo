@@ -4,7 +4,6 @@
 * backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
 * bannerurl: https://shakao-test.github.io/demo/images/shark-attack.png
 * infourl: https://github.com/shakao-test/demo/
-* layout: manual
 * primarycolor: #ff93c4
 * secondarycolor: #87f2ff
 * tertiarycolor: #5c406c
@@ -13,6 +12,7 @@
 
 ## shark
 * name: Shark Splash
+* layout: manual
 
 ### shark-character
 * name: Create Your Hero
