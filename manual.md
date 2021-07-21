@@ -24,16 +24,6 @@
 * next: shark-enemies, shark-background
 * position: 0 0
 
-### shark-enemies
-* name: Add Enemies
-* type: tutorial
-* description: An enemy appears! Fight!
-* url: https://github.com/shakao-test/demo/tutorials/shark-02
-* tags: easy, enemies
-* imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
-* next: shark-projectile
-* position: 0 2
-
 ### shark-background
 * name: Design a Background
 * type: tutorial
@@ -51,8 +41,18 @@
 * url: https://github.com/shakao-test/demo/tutorials/shark-04
 * tags: easy, projectiles, enemies
 * imageUrl: https://shakao-test.github.io/demo/images/03-projectiles.gif
-* next: shark-enemies-moving, shark-enemies-damage
+* next: shark-finish
 * position: 2 0
+
+### shark-enemies
+* name: Add Enemies
+* type: tutorial
+* description: An enemy appears! Fight!
+* url: https://github.com/shakao-test/demo/tutorials/shark-02
+* tags: easy, enemies
+* imageUrl: https://shakao-test.github.io/demo/images/02-enemies.gif
+* next: shark-enemies-moving
+* position: 0 2
 
 ### shark-enemies-moving
 * name: Moving Enemies
@@ -61,7 +61,7 @@
 * url: https://github.com/shakao-test/demo/tutorials/shark-05
 * tags: easy, enemies, movement
 * imageUrl: https://shakao-test.github.io/demo/images/02-A-enemies.gif
-* next: shark-finish
+* next: shark-enemies-moving
 * position: 1 2
 
 ### shark-enemies-damage
