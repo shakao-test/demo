@@ -61,7 +61,7 @@
 * url: https://github.com/shakao-test/demo/tutorials/shark-05
 * tags: easy, enemies, movement
 * imageUrl: https://shakao-test.github.io/demo/images/02-A-enemies.gif
-* next: shark-enemies-moving
+* next: shark-enemies-damage
 * position: 1 2
 
 ### shark-enemies-damage
