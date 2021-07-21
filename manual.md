@@ -64,14 +64,14 @@
 * next: shark-enemies-damage
 * position: 1 2
 
-### shark-background
+### shark-enemies-damage
 * name: Taking Damage
 * type: tutorial
 * description: Watch out! Have the enemies damage the player if they do not dodge.
 * url: https://github.com/shakao-test/demo/tutorials/shark-07
 * tags: easy, enemies, overlaps
 * imageUrl: https://shakao-test.github.io/demo/images/02-C-enemies.gif
-* next: shark-finish
+* next: shark-background
 * position: 2 2
 * edges: 2 1 - 1 1
 
