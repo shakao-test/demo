@@ -73,7 +73,7 @@
 * imageUrl: https://shakao-test.github.io/demo/images/02-C-enemies.gif
 * next: shark-background
 * position: 2 2
-* edges: 2 1
+* edges: 2 1, 1 1
 
 ### shark-finish
 * kind: completion
