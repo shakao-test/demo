@@ -20,7 +20,8 @@
         "test.md",
         "sample.md",
         "beginner.md",
-        "manual.md"
+        "manual.md",
+        "space.md"
     ],
     "targetVersions": {
         "target": "1.4.45",
